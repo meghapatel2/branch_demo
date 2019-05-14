@@ -22,9 +22,7 @@ public class Student {
         // TODO code application logic here
         Student[] list=new Student[5];
         Scanner in=new Scanner(System.in);
-        System.out.println(list.length);    
-        System.out.println("hello class");
-        
+        System.out.println(list.length);
             
         for(int i=0;i<list.length;i++)
         {
