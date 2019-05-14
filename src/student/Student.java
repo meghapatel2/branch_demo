@@ -8,8 +8,8 @@ package student;
 import java.util.Scanner;
 
 /**
- *
- * @author Megha
+ *Tuesday section
+ * @author Megha, 2019
  */
 public class Student {
 
