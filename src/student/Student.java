@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *Tuesday section
- * @author Megha, 2019
+ * @author Megha,21 may 2019
  */
 public class Student {
 
